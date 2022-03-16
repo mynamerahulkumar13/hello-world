@@ -1,0 +1,117 @@
+Last login: Wed Mar 16 09:24:13 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Rahuls-Air:Github_t rahul$ cd 
+Rahuls-Air:~ rahul$ cd Documents/GitHub/
+Rahuls-Air:GitHub rahul$ ls
+Algorithms											microservices-with-spring-main
+Azure_devops_springboot										microservices-with-spring-sectionwise-code-master
+DevOps_Microservices										nd035-c1-spring-boot-basics-examples
+Great_learning_data_science									nd035-c4-Security-and-DevOps
+Java_Full_stack											nd131-openvino-fundamentals-project-starter
+Java_Web_Developer										question-28-mynamerahulkumar-sb1.5.21R-j1.8-gradle-in-docker-2
+MIT_MicroMaster_Program										react-slingshot
+Machine_Learning										spring-master-class
+README.md											test-108-q-4f51052ee7694ffe96d5e7883cb642f9-14940-sb1.5.21R-j1.8-maven-in-docker-2
+Udacity												test-108-q-816605001e914e67876580a930a80334--mynamerahulkumar-sb1.5.21R-j1.8-gradle-in-docker-2
+aws_CI_CD											test-108-q-816605001e914e67876580a930a80334--mynamerahulkumar-sb1.5.21R-j1.8-maven-in-docker-2
+aws_cloud_DevOps										test-108-q-841676053ee34b889dbcf9fd1970bc74-14940-sb1.5.21R-j1.8-maven-in-docker-2
+azure-devops-kubernetes-terraform-pipeline							test-109-q-32cc02e1511e4cf6a42ce9de63f5c83c-14940-sb1.5.21R-j1.8-maven-in-docker-2
+azure-devops-kubernetes-terraform-pipeline1							test-113-q-583c421c87cd4fd6aeceae3b28020b02-14940-sb1.5.21R-j1.8-maven-in-docker-2
+azure-devops-kubernetes-terraform-pipeline2							test-113-q-9c0b53975a4d422990d294b321bc05fd--mynamerahulkumar-sb1.5.21R-j1.8-gradle-in-docker-2
+deploy-spring-boot-to-azure									test-113-q-daeb76bc682541c48b26c4185ba2f92a--mynamerahulkumar-sb1.5.21R-j1.8-gradle-in-docker-2
+help												test-276-q-a44ff3c543e244f7aef306343342e2e3--mynamerahulkumar-sb1.5.21R-j1.8-gradle-in-docker-2
+kaggle												udacity-java
+Rahuls-Air:GitHub rahul$ vi .git
+.git/       .gitignore  
+Rahuls-Air:GitHub rahul$ gedit .git
+.git/       .gitignore  
+Rahuls-Air:GitHub rahul$ gedit .git
+.git/       .gitignore  
+Rahuls-Air:GitHub rahul$ gedit .gitignore 
+-bash: gedit: command not found
+Rahuls-Air:GitHub rahul$ vi .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*.class
+*.idea
+*.iml
+.*
+!.gitignore
+*#
+*.iml
+*.ipr
+*.iws
+*.jar
+*.sw?
+*~
+.#*
+.*.md.html
+.DS_Store
+.attach_pid*
+.classpath
+.factorypath
+.gradle
+.idea
+.metadata
+.project
+.recommenders
+.settings
+.springBeans
+.vscode
+/code
+MANIFEST.MF
+_site/
+activemq-data
+bin
+build
+!/**/src/**/bin
+!/**/src/**/build
+build.log
+dependency-reduced-pom.xml
+dump.rdb
+interpolated*.xml
+lib/
+manifest.yml
+out
+overridedb.*
+target
+transaction-logs
+.flattened-pom.xml
+secrets.yml
+.gradletasknamecache
+.sts4-cache
+
+
+.*.md.html
+*.DS_Store
+*.attach_pid*
+*.classpath
+*.factorypath
+*.gradle
+*.idea
+".gitignore" 183L, 2095C
+
